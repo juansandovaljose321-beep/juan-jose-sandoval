@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Googlebot specific rules
+User-agent: Googlebot
+Allow: /
+
+# Sitemap
+Sitemap: https://ais-pre-3wp4t237qpvcpijqj3n55b-893014071003.us-east1.run.app/sitemap.xml

@@ -1,0 +1,8 @@
+{
+  "name": "JeyhBet - Apuestas Hípicas Online",
+  "description": "Plataforma oficial de apuestas hípicas en carreras virtuales cada 30 minutos en bolívares (Bs) con pago móvil, chat en vivo y control de taquillas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
